@@ -15,14 +15,13 @@ A RESTful API in Go for user management using Gin and GORM.
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/yourusername/GO_Project.git
-cd GO_Project
+git clone https://github.com/ant-den/Simple-user-manager.git
+cd Simple-user-manager
 ```
 
 ### 2. Configure the database
 
 Create a MySQL database and set the connection parameters in `database/db.go`  
-(or use environment variables if implemented).
 
 ### 3. Install dependencies
 
